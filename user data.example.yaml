@@ -1,0 +1,37 @@
+schema_version: 1
+person:
+  name: Jane Example
+  headline: Software Engineer
+  location: Lisbon, Portugal
+  email: jane@example.com
+  phone: "+351 000 000 000"
+  links:
+    - label: LinkedIn
+      url: https://linkedin.com/in/jane-example
+summary_facts:
+  - Backend engineer with 7 years of experience.
+skills:
+  languages: [Python, SQL, JavaScript]
+  platforms: [PostgreSQL, Docker, AWS]
+experience:
+  - id: example-corp-backend-engineer
+    employer: Example Corp
+    title: Backend Engineer
+    location: Remote
+    start: 2021-04
+    end: present
+    facts:
+      - Built and maintained payment APIs.
+      - Reduced p95 latency from 800 ms to 240 ms.
+    framings:
+      - Designed reliable payment services for a high-traffic product.
+      - Improved customer experience by cutting API latency by 70%.
+education:
+  - institution: Example University
+    qualification: BSc Computer Science
+    start: 2012
+    end: 2016
+projects: []
+certifications: []
+languages: []
+
