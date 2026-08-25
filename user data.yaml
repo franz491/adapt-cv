@@ -1,0 +1,16 @@
+schema_version: 1
+person:
+  name: Your Name
+  headline: ""
+  location: ""
+  email: ""
+  phone: ""
+  links: []
+summary_facts: []
+skills: {}
+experience: []
+education: []
+projects: []
+certifications: []
+languages: []
+
