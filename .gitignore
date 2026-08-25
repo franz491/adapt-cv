@@ -1,0 +1,31 @@
+output/
+*.backup-*
+__pycache__/
+*.pyc
+
+# Personal inputs and generated documents
+user data.yaml
+job opening.txt
+*.pdf
+output.json
+output.txt
+extraction-response.json
+
+# Local model/runtime files
+*.gguf
+.env
+.env.*
+.venv/
+venv/
+
+# Python packaging and test caches
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
